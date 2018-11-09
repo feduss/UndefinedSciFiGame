@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - t1
+  - t2
+  - Fire_Origin
+  - Hands
   layers:
   - Default
   - TransparentFX
